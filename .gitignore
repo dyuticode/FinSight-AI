@@ -1,0 +1,5 @@
+.env
+__pycache__/
+models/forecast_model.pkl
+venv/
+.DS_Store
